@@ -114,5 +114,5 @@ int main() {
 ![image](https://github.com/user-attachments/assets/d069965e-6fff-49e2-89f1-30e85b88daab)
 
 ## Result:
-The program is executed successfully
+The program is executed successfully.
 
